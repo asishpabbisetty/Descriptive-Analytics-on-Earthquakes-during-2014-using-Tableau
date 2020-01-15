@@ -1,0 +1,1 @@
+# .Descriptive-Analytics-on-Earthquakes-during-2014-using-Tableau
